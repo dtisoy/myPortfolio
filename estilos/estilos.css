@@ -19,3 +19,26 @@ header .descripcion-principal {
     font-size: 1.1em;
     text-align: center;
 }
+
+/* Sobre mi */
+
+.tarjeta {
+    width: 80%;
+    margin: 0 auto;
+    background-color: #fff;
+    border-radius: 10px;
+    padding: 20px;    
+    margin-bottom: 20px;
+}
+.foto-perfil{
+    width: 8em;
+    height: 10em;
+    border: 2px solid red;
+}
+.foto-perfil img {
+    width: 100%;
+    height: 100%;
+}
+article .perfil-profesional {
+    border: 2px solid red;
+}
