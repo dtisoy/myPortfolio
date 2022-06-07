@@ -3,6 +3,7 @@
 }
 body {
     background-color: var(--main-color);
+    font-family: 'Comic Sans MS';
 }
 header {
     color: #fff;
@@ -20,7 +21,6 @@ header .descripcion-principal {
     text-align: center;
 }
 
-/* Sobre mi */
 
 .tarjeta {
     width: 80%;
@@ -30,15 +30,20 @@ header .descripcion-principal {
     padding: 20px;    
     margin-bottom: 20px;
 }
+/* Sobre mi */
+
 .foto-perfil{
     width: 8em;
     height: 10em;
-    border: 2px solid red;
+    float: left;
 }
 .foto-perfil img {
     width: 100%;
     height: 100%;
+    
 }
 article .perfil-profesional {
-    border: 2px solid red;
+    height: 10em;
+    margin-left:10em;
+    
 }
