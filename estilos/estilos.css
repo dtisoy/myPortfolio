@@ -50,3 +50,22 @@ article .perfil-profesional {
 }
 
 /* Tarjeta de proyecto */
+.info-proyectos {
+    min-height: 15em;
+}
+.info-proyectos .muestra-proyectos {
+    width: 90%;
+    margin : 0 auto;
+ 
+}
+.info-proyectos .miniatura-proyecto {
+    
+    width: 25%;
+    float: left;
+    margin: 0 3%;
+    
+}
+.info-proyectos .miniatura-proyecto img {
+    width: 100%;
+    height: 100%;
+}
