@@ -43,7 +43,10 @@ header .descripcion-principal {
     
 }
 article .perfil-profesional {
-    height: 10em;
     margin-left:10em;
+    min-height: 10em;
+    max-height: 20em;
     
 }
+
+/* Tarjeta de proyecto */
